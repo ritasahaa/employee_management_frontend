@@ -115,8 +115,6 @@ npm run preview
 
 ## API Integration Status
 
-⚠️ **IMPORTANT**: The API integration is intentionally incomplete. This is a candidate assignment project.
-
 The following API integrations need to be implemented:
 - Login API
 - Fetch employees with filters
